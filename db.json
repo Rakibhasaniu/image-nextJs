@@ -1,0 +1,38 @@
+{
+  "shoes":[
+    {
+      "title": "UltraBoost Running Shoes",
+      "description": "Experience unparalleled comfort with energy-returning midsoles, perfect for long-distance runners.",
+      "price": 180.00,
+      "id": "001"
+      
+    },
+    {
+      "title": "Air Max 270",
+      "description": "Bringing you a breathable and lightweight design that's as stylish as it is comfortable.",
+      "price": 150.00,
+      "id": "002"
+      
+    },
+    {
+      "title": "Classic Leather",
+      "description": "Iconic design with superior cushioning, perfect for daily wear and timeless style.",
+      "price": 90.00,
+      "id": "003"
+      
+    },
+    {
+      "title": "ZoomX Vaporfly",
+      "description": "Designed for speed with revolutionary technology, ideal for competitive runners seeking to break barriers.",
+      "price": 250.00,
+      "id": "004"
+      
+    },
+    {
+      "title": "Gel-Kayano 27",
+      "description": "Offers exceptional support and comfort for overpronators, combining advanced stability with a luxurious cushioned feel.",
+      "price": 160.00,
+      "id": "005"
+    }
+] 
+}
